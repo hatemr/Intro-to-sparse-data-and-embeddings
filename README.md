@@ -1,2 +1,4 @@
 # Intro-to-sparse-data-and-embeddings
-Following a tutorial from Google Colab on word embeddings
+I am completing a tutorial on word embeddings from Google Colab.
+
+This tutorial helps me practice tensorflow and uses an feed-forward neural networks.
