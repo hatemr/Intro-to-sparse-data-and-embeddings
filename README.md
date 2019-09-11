@@ -1,6 +1,7 @@
 # Intro-to-sparse-data-and-embeddings
 I am completing a tutorial on word embeddings from Google Colab. I used word/sentence/document embeddings at work recently so this is good practice with embeddings and tensorflow.
 
+## Summary
 * The model performs sentiment analysis on a movie review dataset (positive vs. negative).
 * The words are first represented as one-hot vectors from a limited vocabulary of 50 terms.
 * A simple logistic regression is applied (`tf.estimator.LinearClassifier`) (test AUC: 0.87036055), then a feed-forward neural net (`tf.estimator.DNNClassifier`) (test AUC: 0.8653846).
