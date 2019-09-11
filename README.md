@@ -5,6 +5,7 @@ I am completing a tutorial on word embeddings from Google Colab. I used word/sen
 * The words are first represented as one-hot vectors from a limited vocabulary of 50 terms.
 * A simple logistic regression is applied (`tf.estimator.LinearClassifier`) (test AUC: 0.87036055), then a feed-forward neural net (`tf.estimator.DNNClassifier`) (test AUC: 0.8653846).
 * The sparse features are combined into an embedding layer of dimension 2, which is lower dimensional than the indicator columns, and the models re-run with different hyperparameters.
+
 How does the 2d embedding get assigned?
 > That is, the model learns the best way to map your input numeric categorical values to the embeddings vector value in order to solve your problem.
 From [here](https://developers.googleblog.com/2017/11/introducing-tensorflow-feature-columns.html)
