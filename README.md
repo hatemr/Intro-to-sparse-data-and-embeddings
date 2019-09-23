@@ -1,5 +1,5 @@
-# Intro-to-sparse-data-and-embeddings
-I am completing a tutorial on word embeddings from Google Colab. I used word/sentence/document embeddings at work recently so this is good practice with embeddings and tensorflow.
+# Intro to sparse data and embeddings
+I completed a tutorial on word embeddings from Google Colab. I used word/sentence/document embeddings at work recently so this is good practice with embeddings and tensorflow.
 
 ## Summary
 * The model performs sentiment analysis on a movie review dataset (positive vs. negative).
