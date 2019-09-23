@@ -2,9 +2,9 @@
 I used Tensorflow to make some word embeddings.
 
 ## View my work
-My code can be found here: [intro_to_sparse_data_and_embeddings.ipynb](intro_to_sparse_data_and_embeddings.ipynb).
+My code can be found here: [intro_to_sparse_data_and_embeddings.md](intro_to_sparse_data_and_embeddings.md). I created the markdown version of the `.ipynb` notebook because `.ipynb` files often don't render in Github.
 
-If the link above does not render (`.ipynb` files often don't render in Github), copy-paste this URL: https://github.com/hatemr/Intro-to-sparse-data-and-embeddings/blob/master/intro_to_sparse_data_and_embeddings.ipynb into the search bar on the site https://nbviewer.jupyter.org. This will render the notebook.
+
 
 ## Summary
 * The model performs sentiment analysis on a movie review dataset (positive vs. negative).
