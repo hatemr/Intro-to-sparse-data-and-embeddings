@@ -1,5 +1,10 @@
 # Intro to sparse data and embeddings
-I completed a tutorial on word embeddings from Google Colab. I used word/sentence/document embeddings at work recently so this is good practice with embeddings and tensorflow.
+I used Tensorflow to make some word embeddings.
+
+## View my work
+My code can be found here: [intro_to_sparse_data_and_embeddings.ipynb](intro_to_sparse_data_and_embeddings.ipynb).
+
+If the link above does not render (`.ipynb` files often don't render in Github), copy-paste this URL: https://github.com/hatemr/Intro-to-sparse-data-and-embeddings/blob/master/intro_to_sparse_data_and_embeddings.ipynb into the search bar on the site https://nbviewer.jupyter.org(https://nbviewer.jupyter.org).
 
 ## Summary
 * The model performs sentiment analysis on a movie review dataset (positive vs. negative).
